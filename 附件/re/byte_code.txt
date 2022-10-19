@@ -1,0 +1,265 @@
+  1           0 LOAD_CONST               0 (114)
+              2 LOAD_CONST               1 (101)
+              4 LOAD_CONST               2 (118)
+              6 LOAD_CONST               1 (101)
+              8 LOAD_CONST               0 (114)
+             10 LOAD_CONST               3 (115)
+             12 LOAD_CONST               1 (101)
+             14 LOAD_CONST               4 (95)
+             16 LOAD_CONST               5 (116)
+             18 LOAD_CONST               6 (104)
+             20 LOAD_CONST               1 (101)
+             22 LOAD_CONST               4 (95)
+             24 LOAD_CONST               7 (98)
+             26 LOAD_CONST               8 (121)
+             28 LOAD_CONST               5 (116)
+             30 LOAD_CONST               1 (101)
+             32 BUILD_LIST              16
+             34 STORE_NAME               0 (a)
+
+  2          36 LOAD_CONST               9 (99)
+             38 LOAD_CONST              10 (111)
+             40 LOAD_CONST              11 (100)
+             42 LOAD_CONST               1 (101)
+             44 LOAD_CONST               4 (95)
+             46 LOAD_CONST               5 (116)
+             48 LOAD_CONST              10 (111)
+             50 LOAD_CONST               4 (95)
+             52 LOAD_CONST              12 (103)
+             54 LOAD_CONST               1 (101)
+             56 LOAD_CONST               5 (116)
+             58 LOAD_CONST               4 (95)
+             60 LOAD_CONST              13 (102)
+             62 LOAD_CONST              14 (108)
+             64 LOAD_CONST              15 (97)
+             66 LOAD_CONST              12 (103)
+             68 BUILD_LIST              16
+             70 STORE_NAME               1 (b)
+
+  3          72 LOAD_CONST              16 (80)
+             74 LOAD_CONST               3 (115)
+             76 LOAD_CONST              17 (193)
+             78 LOAD_CONST              18 (24)
+             80 LOAD_CONST              19 (226)
+             82 LOAD_CONST              20 (237)
+             84 LOAD_CONST              21 (202)
+             86 LOAD_CONST              22 (212)
+             88 LOAD_CONST              23 (126)
+             90 LOAD_CONST              24 (46)
+             92 LOAD_CONST              25 (205)
+             94 LOAD_CONST              26 (208)
+             96 LOAD_CONST              27 (215)
+             98 LOAD_CONST              28 (135)
+            100 LOAD_CONST              29 (228)
+            102 LOAD_CONST              30 (199)
+            104 LOAD_CONST              31 (63)
+            106 LOAD_CONST              32 (159)
+            108 LOAD_CONST              33 (117)
+            110 LOAD_CONST              34 (52)
+            112 LOAD_CONST              35 (254)
+            114 LOAD_CONST              36 (247)
+            116 LOAD_CONST              37 (0)
+            118 LOAD_CONST              38 (133)
+            120 LOAD_CONST              39 (163)
+            122 LOAD_CONST              40 (248)
+            124 LOAD_CONST              41 (47)
+            126 LOAD_CONST               3 (115)
+            128 LOAD_CONST              42 (109)
+            130 LOAD_CONST              40 (248)
+            132 LOAD_CONST              43 (236)
+            134 LOAD_CONST              44 (68)
+            136 BUILD_LIST              32
+            138 STORE_NAME               2 (e)
+
+  4         140 LOAD_CONST              45 (9)
+            142 LOAD_CONST              46 (6)
+            144 LOAD_CONST              47 (15)
+            146 LOAD_CONST              48 (10)
+            148 LOAD_CONST              49 (1)
+            150 LOAD_CONST              37 (0)
+            152 LOAD_CONST              50 (11)
+            154 LOAD_CONST              51 (7)
+            156 LOAD_CONST              52 (4)
+            158 LOAD_CONST              53 (12)
+            160 LOAD_CONST              54 (5)
+            162 LOAD_CONST              55 (3)
+            164 LOAD_CONST              56 (8)
+            166 LOAD_CONST              57 (2)
+            168 LOAD_CONST              58 (14)
+            170 LOAD_CONST              59 (13)
+            172 BUILD_LIST              16
+            174 STORE_NAME               3 (pos)
+
+  5         176 LOAD_CONST              60 (335833164)
+            178 LOAD_CONST              61 (1155265242)
+            180 LOAD_CONST              62 (627920619)
+            182 LOAD_CONST              63 (1951749419)
+            184 LOAD_CONST              64 (1931742276)
+            186 LOAD_CONST              65 (856821608)
+            188 LOAD_CONST              66 (489891514)
+            190 LOAD_CONST              67 (366025591)
+            192 LOAD_CONST              68 (1256805508)
+            194 LOAD_CONST              69 (1106091325)
+            196 LOAD_CONST              70 (128288025)
+            198 LOAD_CONST              71 (234430359)
+            200 LOAD_CONST              72 (314915121)
+            202 LOAD_CONST              73 (249627427)
+            204 LOAD_CONST              74 (207058976)
+            206 LOAD_CONST              75 (1573143998)
+            208 LOAD_CONST              76 (1443233295)
+            210 LOAD_CONST              77 (245654538)
+            212 LOAD_CONST              78 (1628003955)
+            214 LOAD_CONST              79 (220633541)
+            216 LOAD_CONST              80 (1412601456)
+            218 LOAD_CONST              81 (1029130440)
+            220 LOAD_CONST              82 (1556565611)
+            222 LOAD_CONST              83 (1644777223)
+            224 LOAD_CONST              84 (853364248)
+            226 LOAD_CONST              85 (58316711)
+            228 LOAD_CONST              86 (734735924)
+            230 LOAD_CONST              87 (1745226113)
+            232 LOAD_CONST              88 (1441619500)
+            234 LOAD_CONST              89 (1426836945)
+            236 LOAD_CONST              90 (500084794)
+            238 LOAD_CONST              91 (1534413607)
+            240 BUILD_LIST              32
+            242 STORE_NAME               4 (d)
+
+  6         244 LOAD_NAME                5 (__name__)
+            246 LOAD_CONST              92 ('__main__')
+            248 COMPARE_OP               2 (==)
+            250 EXTENDED_ARG             1
+            252 POP_JUMP_IF_FALSE      490
+
+  7         254 LOAD_NAME                0 (a)
+            256 LOAD_NAME                1 (b)
+            258 BINARY_ADD
+            260 STORE_NAME               6 (c)
+
+  8         262 LOAD_NAME                7 (range)
+            264 LOAD_CONST              93 (31)
+            266 CALL_FUNCTION            1
+            268 GET_ITER
+        >>  270 FOR_ITER                26 (to 298)
+            272 STORE_NAME               8 (i)
+
+  9         274 LOAD_NAME                9 (print)
+            276 LOAD_NAME               10 (chr)
+            278 LOAD_NAME                6 (c)
+            280 LOAD_NAME                8 (i)
+            282 BINARY_SUBSCR
+            284 CALL_FUNCTION            1
+            286 LOAD_CONST              94 ('')
+            288 LOAD_CONST              95 (('end',))
+            290 CALL_FUNCTION_KW         2
+            292 POP_TOP
+            294 EXTENDED_ARG             1
+            296 JUMP_ABSOLUTE          270
+
+ 10     >>  298 LOAD_NAME                9 (print)
+            300 LOAD_NAME               10 (chr)
+            302 LOAD_NAME                6 (c)
+            304 LOAD_CONST              93 (31)
+            306 BINARY_SUBSCR
+            308 CALL_FUNCTION            1
+            310 CALL_FUNCTION            1
+            312 POP_TOP
+
+ 11         314 LOAD_NAME                7 (range)
+            316 LOAD_CONST              96 (16)
+            318 CALL_FUNCTION            1
+            320 GET_ITER
+        >>  322 FOR_ITER                38 (to 362)
+            324 STORE_NAME               8 (i)
+
+ 12         326 LOAD_NAME                0 (a)
+            328 LOAD_NAME                8 (i)
+            330 BINARY_SUBSCR
+            332 LOAD_NAME                4 (d)
+            334 LOAD_NAME                8 (i)
+            336 BINARY_SUBSCR
+            338 BINARY_ADD
+            340 LOAD_NAME                1 (b)
+            342 LOAD_NAME                3 (pos)
+            344 LOAD_NAME                8 (i)
+            346 BINARY_SUBSCR
+            348 BINARY_SUBSCR
+            350 BINARY_XOR
+            352 LOAD_NAME                0 (a)
+            354 LOAD_NAME                8 (i)
+            356 STORE_SUBSCR
+            358 EXTENDED_ARG             1
+            360 JUMP_ABSOLUTE          322
+
+ 13     >>  362 LOAD_NAME                7 (range)
+            364 LOAD_CONST              96 (16)
+            366 CALL_FUNCTION            1
+            368 GET_ITER
+        >>  370 FOR_ITER                30 (to 402)
+            372 STORE_NAME               8 (i)
+
+ 14         374 LOAD_NAME                1 (b)
+            376 LOAD_NAME                8 (i)
+            378 BINARY_SUBSCR
+            380 LOAD_NAME                0 (a)
+            382 LOAD_NAME                3 (pos)
+            384 LOAD_NAME                8 (i)
+            386 BINARY_SUBSCR
+            388 BINARY_SUBSCR
+            390 BINARY_XOR
+            392 LOAD_NAME                1 (b)
+            394 LOAD_NAME                8 (i)
+            396 STORE_SUBSCR
+            398 EXTENDED_ARG             1
+            400 JUMP_ABSOLUTE          370
+
+ 15     >>  402 LOAD_NAME                0 (a)
+            404 LOAD_NAME                1 (b)
+            406 BINARY_ADD
+            408 STORE_NAME               6 (c)
+
+ 16         410 LOAD_NAME                7 (range)
+            412 LOAD_CONST              97 (32)
+            414 CALL_FUNCTION            1
+            416 GET_ITER
+        >>  418 FOR_ITER                70 (to 490)
+            420 STORE_NAME               8 (i)
+
+ 17         422 LOAD_NAME                6 (c)
+            424 LOAD_NAME                8 (i)
+            426 BINARY_SUBSCR
+            428 LOAD_NAME                4 (d)
+            430 LOAD_NAME                8 (i)
+            432 BINARY_SUBSCR
+            434 BINARY_MULTIPLY
+            436 LOAD_CONST              98 (256)
+            438 BINARY_MODULO
+            440 LOAD_NAME                6 (c)
+            442 LOAD_NAME                8 (i)
+            444 STORE_SUBSCR
+
+ 18         446 LOAD_NAME                6 (c)
+            448 LOAD_NAME                8 (i)
+            450 DUP_TOP_TWO
+            452 BINARY_SUBSCR
+            454 LOAD_NAME                2 (e)
+            456 LOAD_NAME                8 (i)
+            458 BINARY_SUBSCR
+            460 INPLACE_XOR
+            462 ROT_THREE
+            464 STORE_SUBSCR
+
+ 19         466 LOAD_NAME                9 (print)
+            468 LOAD_NAME               10 (chr)
+            470 LOAD_NAME                6 (c)
+            472 LOAD_NAME                8 (i)
+            474 BINARY_SUBSCR
+            476 CALL_FUNCTION            1
+            478 LOAD_CONST              94 ('')
+            480 LOAD_CONST              95 (('end',))
+            482 CALL_FUNCTION_KW         2
+            484 POP_TOP
+            486 EXTENDED_ARG             1
+            488 JUMP_ABSOLUTE          418
+        >>  490 LOAD_CONST              99 (None)
+            492 RETURN_VALUE
